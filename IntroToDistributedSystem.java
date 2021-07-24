@@ -26,7 +26,7 @@ Step 1 : Add Znodes to the election parent. step 2 : As Znodes are order in the 
 When Zookeeper object is created, two additional threads are created:
 -> Event Thread : Handles zookeeper client state changes and manages events like : Connection, Disconnection
 -> IO Thread : Handles Network communication btw zookeeper and application
-20)
+20) Project: Maven - Its a build automation tool gets all dependencies
 21)
 22)
 */
